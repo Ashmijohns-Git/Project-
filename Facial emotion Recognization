@@ -1,0 +1,5 @@
+Facial Emotion Recognition is a fascinating field within the realm of artificial intelligence and computer vision. 
+It involves the identification and interpretation of human emotions from facial expressions.
+Accurate emotion detection has numerous practical applications, including human-computer interaction, customer feedback analysis, and mental health monitoring. 
+Convolutional Neural Networks (CNNs) have emerged as a powerful tool in this domain, revolutionizing the way we understand and process emotional cues from images.
+For classifying the facial emotions FER dataset is taken and then the expressions is classified into 7 classes. 
