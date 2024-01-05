@@ -1,4 +1,4 @@
-# Project-
+# Classification of Waste Materials using CNN Based on Transfer Learning
 project
 In this, for classifying the waste images Stanford TrashNet dataset is used. Then these images are preprocessed and fed into the CNN, which learns to extract high-level features and patterns specific to waste material classification. Then, the fully connected layers or the last layer of the CNN is removed or transferred and added with pre-trained network namely InceptionResNetV2, ResNet50, Vgg19 and DenseNet201 and performs fine-tuning on the waste dataset. By reusing these pre-trained models, the computational cost and data requirements for training a CNN from scratch are significantly reduced. In this, libraries such as NumPy, pandas, matplotlib, CV2, Keras, pillow, glob are used. 
 Here, 
